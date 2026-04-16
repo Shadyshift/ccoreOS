@@ -1,0 +1,6 @@
+kernel.iso
+kmain.o
+kernel
+iso_root/
+limine/
+
