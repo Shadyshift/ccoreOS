@@ -11,3 +11,6 @@
 > - https://osdev.org
 > - https://github.com/limine-bootloader/limine
 > - https://applepiecodes.github.io/osdev-blog/
+
+# disclaimer!
+While i do not agree that vibecoding is that you make your own programs. I do think ai can be a usefull tool to help with thigns. Personally I am not the best in python so I asked ai to help me with that BUT I DID NOT BLINDLY COPY PASTE IT! I ONLY RETYPED IT AND MADE SOME CHANGES! And this is not too serious. No body will probobly will even read this ;)
