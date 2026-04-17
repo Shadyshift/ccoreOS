@@ -2,7 +2,7 @@
   added flanterm for text in the os :)
 
 # How to install?
-- clone this branch and cd in to it
+- clone this branch(git clone -b v0.0.02 https://github.com/Shadyshift/ccoreOS/) and cd in to it
 - type python build.py image and press enter
   This will make the file kernel.iso!
 
