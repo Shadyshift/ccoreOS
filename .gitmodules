@@ -1,0 +1,9 @@
+[submodule "src/term/flanterm"]
+	path = src/term/flanterm
+	url = https://github.com/Mintsuki/Flanterm
+[submodule "Flanterm"]
+	path = Flanterm
+	url = https://github.com/Mintsuki/Flanterm
+[submodule "src/src/term/flanterm"]
+	path = src/src/term/flanterm
+	url = https://github.com/Mintsuki/Flanterm
